@@ -1,7 +1,7 @@
 exports.handler = async (event) => {
     const allowedEmails = [
         'ardaakkiz@gmail.com',
-        'user2@example.com'
+        'baran.ozer.yuce@gmail.com'
     ]; 
     const userEmail = event.queryStringParameters.email;
 
