@@ -33,6 +33,7 @@ exports.handler = async (event) => {
         "burakamazonco@gmail.com",
         "ademkizilkaya87@gmail.com",
         "onrergul@gmail.com",
+        "omerfaruk567248@gmail.com",
         "omeryardim2@hotmail.com",
         "Alexideaa@gmail.com",
         "memetsaid619@gmail.com",
