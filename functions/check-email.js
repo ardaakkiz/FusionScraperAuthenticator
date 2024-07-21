@@ -90,7 +90,8 @@ exports.handler = async (event) => {
         "murattekin.marketing@gmail.com",
         "fundacimen8744@gmail.com",
         "drmervesari@yahoo.com",
-        "ar7ogredik@gmail.com"
+        "ar7ogredik@gmail.com",
+        "habiperdm@gmail.com"
     ]
     const userEmail = event.queryStringParameters.email;
 
